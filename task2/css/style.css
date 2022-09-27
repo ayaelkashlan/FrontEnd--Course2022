@@ -1,0 +1,135 @@
+body{
+    background-image: url(../images/pic.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.title2{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.line{
+    width: 180px;
+    height: 4px;
+    background-color: rgb(250, 253, 253);
+    margin: auto;
+    margin-top: -60px;
+}
+h2{
+    color: rgb(106, 168, 170);
+
+}
+p{
+    color: rgb(175, 146, 98);
+    text-transform: capitalize;
+    margin: 13;
+    margin-top: -12px;
+    font-size: 17px;
+     
+}
+.div1:hover p{
+    color: black;
+
+}
+.div2:hover p{
+    color: black;
+}
+.div3:hover p{
+    color: black;
+}
+.div1:hover .title3 {
+    color: rgb(110, 175, 110);
+}
+.div2:hover .title4{
+    color: rgb(110, 175, 110);
+
+}
+.div3:hover .title5{
+    color: rgb(110, 175, 110);
+}
+.div1:hover button{
+    background-color: rgb(110, 175, 110);
+    color: black;
+}
+.div2:hover button{
+    background-color: rgb(110, 175, 110);
+    color: black;
+}
+.div3:hover button{
+    background-color: rgb(110, 175, 110);
+    color: black;
+}
+.div1{
+    width: 290px;
+    height: 280px; 
+    background-color:white ;
+    border-radius: 20px;
+    float: left;
+    margin-left: 320px;
+    text-align: center;
+    
+
+}
+.div1:hover{
+    background-color:  rgb(236, 229, 222);
+
+}
+.div2{
+    width: 290px;
+    height: 280px;
+    background-color: white;
+    border-radius: 20px;
+    float: left;
+    margin: 0px 100px;
+    text-align: center;
+
+}
+.div2:hover{
+    background-color:  rgb(236, 229, 222);
+
+}
+.div3{
+    width: 290px;
+    height: 280px;
+    background-color: white;
+    border-radius: 20px;
+    float: left;
+    text-align: center;
+
+}
+.div3:hover{
+    background-color:  rgb(236, 229, 222);
+
+}
+.parent{
+    margin-top: 180px;
+    overflow: auto;
+
+}
+button{
+    width:190px ;
+    height: 40PX;
+    border-radius: 10PX;
+    border: none;
+    background-color: rgb(114, 178, 180);
+    display: block;
+    margin: auto;
+    color: aliceblue;
+    margin-bottom: 7px;
+    font-size: 19px ;
+
+}
+a{
+    color: black;
+    font-size: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.p10{font: italic}
+
+
+
+       
